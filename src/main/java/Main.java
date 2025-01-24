@@ -41,7 +41,7 @@ public class Main {
         }
     }
    /**
- * Imprime los resultados de la ejecución de un programa en Python.
+ * Muestra los resultados de la ejecución en Python.
  *
  * @param tiempoPy el tiempo que tardó el programa en ejecutarse en segundos
  * @param resultadoPy el resultado del programa
@@ -52,7 +52,7 @@ public static void resultadosPython(int tiempoPy, int resultadoPy) {
 }
 
 /**
- * Imprime los resultados de la ejecución de un programa en C.
+ * Muestra los resultados de la ejecución  en C.
  *
  * @param tiempoC el tiempo que tardó el programa en ejecutarse en segundos
  * @param resultadoC el resultado del programa
@@ -63,7 +63,7 @@ public static void resultadosC(int tiempoC, int resultadoC) {
 }
 
 /**
- * Imprime la suma de los resultados de la ejecución de dos programas.
+ * Muestra la suma de los resultados de la ejecución de los dos programas.
  *
  * @param resultPy el resultado del programa en Python
  * @param resultC el resultado del programa en C
